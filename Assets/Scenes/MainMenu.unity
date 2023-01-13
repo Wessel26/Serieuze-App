@@ -446,7 +446,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0, y: -150}
+  m_AnchoredPosition: {x: -8, y: -545}
   m_SizeDelta: {x: 500, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &342342220
@@ -469,7 +469,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 79b97b01d6e3f6348836800c0cdc5453, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 90f579f7415f3ba4c9a5f3b68a1616a0, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -868,7 +868,7 @@ RectTransform:
   m_GameObject: {fileID: 675334846}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.5, y: 0.5, z: 1}
+  m_LocalScale: {x: 0.4, y: 0.4, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1756640398}
@@ -899,7 +899,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Play
+  m_text: Spenderen
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: ba2a181d979b7ca4c89c908e2d8cab6b, type: 2}
   m_sharedMaterial: {fileID: 4013396946359639539, guid: ba2a181d979b7ca4c89c908e2d8cab6b, type: 2}
@@ -1056,7 +1056,7 @@ GameObject:
   - component: {fileID: 924019350}
   - component: {fileID: 924019349}
   m_Layer: 5
-  m_Name: Settings
+  m_Name: Instellingen
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1071,7 +1071,7 @@ RectTransform:
   m_GameObject: {fileID: 924019347}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.5, y: 0.5, z: 1}
+  m_LocalScale: {x: 0.3, y: 0.3, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1356796443}
@@ -1102,7 +1102,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Settings
+  m_text: Instellingen
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: ba2a181d979b7ca4c89c908e2d8cab6b, type: 2}
   m_sharedMaterial: {fileID: 4013396946359639539, guid: ba2a181d979b7ca4c89c908e2d8cab6b, type: 2}
@@ -1381,7 +1381,7 @@ GameObject:
   - component: {fileID: 1356796445}
   - component: {fileID: 1356796444}
   m_Layer: 5
-  m_Name: SettingsButton
+  m_Name: InstellingenButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1405,7 +1405,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.0009765625, y: 0}
+  m_AnchoredPosition: {x: -0.0009765625, y: 75}
   m_SizeDelta: {x: 400, y: 75}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1356796444
@@ -1573,7 +1573,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: c30c383963837464f8287d1db6b569fa, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 422f0fed1e17d1447bdfb0d67c65b6e8, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1712,7 +1712,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.0009765625, y: 100}
+  m_AnchoredPosition: {x: -0.0009765625, y: 175}
   m_SizeDelta: {x: 400, y: 75}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1756640399
