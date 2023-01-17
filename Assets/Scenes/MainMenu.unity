@@ -545,7 +545,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Back
+  m_text: Terug
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: ba2a181d979b7ca4c89c908e2d8cab6b, type: 2}
   m_sharedMaterial: {fileID: 4013396946359639539, guid: ba2a181d979b7ca4c89c908e2d8cab6b, type: 2}
@@ -1573,7 +1573,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 422f0fed1e17d1447bdfb0d67c65b6e8, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 763b21bfe9937974db543c1965674cb5, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1819,6 +1819,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1925745789}
   - component: {fileID: 1925745790}
+  - component: {fileID: 1925745791}
   m_Layer: 5
   m_Name: Opties
   m_TagString: Untagged
@@ -1925,6 +1926,31 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 1
         m_CallState: 2
+      - m_Target: {fileID: 1925745791}
+        m_TargetAssemblyTypeName: Geluid, Assembly-CSharp
+        m_MethodName: ChangeVolume
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 1
+        m_CallState: 2
+--- !u!114 &1925745791
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1925745788}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: abb04fa1b2c21b143b549ecea7d226cf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  volumeSlider: {fileID: 1925745790}
 --- !u!1 &1999515135
 GameObject:
   m_ObjectHideFlags: 0
@@ -2061,7 +2087,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: c30c383963837464f8287d1db6b569fa, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 763b21bfe9937974db543c1965674cb5, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
