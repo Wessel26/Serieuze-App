@@ -726,7 +726,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textComponent: {fileID: 1921146065}
   lines:
-  - Dit is een test
+  - "Emma: Eindelijk heb ik het spel uitgespeelt! Maar zo te horen komen mijn ouders
+    thuis. Hopelijk weten ze niet dat ik hun creditkaart zomaar heb gebruikt, dat
+    zouden ze absoluut niet leuk vinden namelijk\u2026 Ouders: *DEUR KNALT OPEN!!*
+    EMMA! KOM INMIDDELIJK NAAR BENEDEN!!! "
   textSpeed: 0.1
 --- !u!114 &1111692805
 MonoBehaviour:

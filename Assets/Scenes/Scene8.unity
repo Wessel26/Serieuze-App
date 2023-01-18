@@ -1063,7 +1063,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textComponent: {fileID: 741044444}
   lines:
-  - Dit is een test
+  - (Na een hevige ruzie met je ouders hebben ze je naar het GKB gestuurd voor een
+    oplossing.)
   textSpeed: 0.1
 --- !u!114 &1565344402
 MonoBehaviour:

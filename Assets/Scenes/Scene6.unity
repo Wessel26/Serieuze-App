@@ -438,7 +438,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 230}
+  m_AnchoredPosition: {x: 0, y: -132}
   m_SizeDelta: {x: -123.4441, y: -654.5514}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &833801020
@@ -455,7 +455,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textComponent: {fileID: 840959007}
   lines:
-  - Dit is een test
+  - 'Emma: Laat ik even de creditkaart van mijn ouders lenen, dat zullen ze vast
+    niet zo erg vinden. Desnoods betaal ik het ze later terug.'
   textSpeed: 0.1
 --- !u!114 &833801021
 MonoBehaviour:
@@ -668,7 +669,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 267, y: 100}
+  m_AnchoredPosition: {x: 267, y: -116.52013}
   m_SizeDelta: {x: 300, y: 75}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1316489191
@@ -1075,7 +1076,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -287, y: 100}
+  m_AnchoredPosition: {x: -287, y: -116.52013}
   m_SizeDelta: {x: 300, y: 75}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1535511909

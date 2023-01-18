@@ -926,9 +926,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Emma: Zo te zien heb ik \u20AC120 van mijn opa en oma gekregen van mijn
-    afgelopen verjaardag. Waaraan zou ik dat eventueel aan kunnen uitgeven? \r\nLaat
-    ik het voor nu maar bewaren, dan ga ik nu gamen.\r\n"
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: ba2a181d979b7ca4c89c908e2d8cab6b, type: 2}
   m_sharedMaterial: {fileID: 4013396946359639539, guid: ba2a181d979b7ca4c89c908e2d8cab6b, type: 2}
@@ -1346,7 +1344,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   textComponent: {fileID: 964413708}
   lines:
-  - Dit is een test
+  - "Emma: Zo te zien heb ik \u20AC120 van mijn opa en oma gekregen van mijn afgelopen
+    verjaardag. Waaraan zou ik dat eventueel aan kunnen uitgeven?  Laat ik het voor
+    nu maar bewaren, dan ga ik nu gamen. "
   textSpeed: 0.1
 --- !u!114 &1984467366
 MonoBehaviour:
