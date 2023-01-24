@@ -57,5 +57,9 @@ public class Dialogue : MonoBehaviour
             textComponent.text = string.Empty;
             StartCoroutine(TypeLine());
         }
+        else
+        {
+            gameObject.SetActive(false);
+        }
     }
 }
